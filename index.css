@@ -1,0 +1,28 @@
+.card {
+	border: 0px;
+}
+
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+#map {
+   height: 100%;
+   width :71.4285%;
+   margin-left:100%;
+   margin-right:100%;
+   margin-top: 20%;
+   margin-bottom: auto;
+}
+
+.searchContainer {
+  margin-left:100%;
+  margin-right:100%;
+  margin-top: 10%;
+  margin-bottom: auto;
+}
+
+html, body {
+  height: 60%;
+  width: 60%;
+  /* margin: 100; */
+  /* padding: 100; */
+}

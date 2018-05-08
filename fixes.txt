@@ -1,0 +1,4 @@
+js:
+1. after "check spelling" error is thrown, the next input doesn't search correctly
+2. if there is birth_place and origin, choose origin over birth_place. ex: kyle
+3. allow for (rapper) tag
